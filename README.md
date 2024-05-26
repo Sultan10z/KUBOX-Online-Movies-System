@@ -45,3 +45,7 @@ KU BOX is an Online Movie System developed using PHP and SQL. It allows users to
 - Requirement Document
 - Design Document
 
+
+## Contributors
+- Sultan Alshehhi
+- Alanood Alqaydi
