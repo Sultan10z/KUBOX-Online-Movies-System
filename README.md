@@ -45,11 +45,3 @@ KU BOX is an Online Movie System developed using PHP and SQL. It allows users to
 - Requirement Document
 - Design Document
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README to include more specific instructions or details about your project!
